@@ -1,4 +1,4 @@
-# .github<h3 align="center">
+<h3 align="center">
   <img src="../assets/logo_oberon.png" alt="logo-OBERON" width="250">
 </h3>
 
