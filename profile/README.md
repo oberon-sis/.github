@@ -140,7 +140,7 @@ Este projeto está dividido em múltiplos repositórios:
 <td align="center" width="125px"><a  href= "https://github.com/brubrumartins"><img src="../assets/bruna_photo.png" border-radius="50%"; width="400px;"/><br/><b>Bruna Martins</b> </</a><br /> <sub> Suporte <br>&<br> Back-End </sub> </br></br> <a  href="https://github.com/brubrumartins" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center" width="125px"><a  href= "https://github.com/d1n4ara" ><img src="../assets/dandara_photo.png"  border-radius="50%"; width="400px;"/><br/><b>Dandara Ramos</b></</a><br />  <sub > DBA <br>&<br> Front  </sub> </br></br> <a  href="https://github.com/d1n4ara" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href= "https://github.com/d1n4ara" ><img src="../assets/dandara_photo.png"  border-radius="50%"; width="400px;"/><br/><b>Dandara Ramos</b></</a><br />  <sub > DBA <br>&<br> Front-End </sub> </br></br> <a  href="https://github.com/d1n4ara" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 <td  align="center" width="125px"><a  href="https://github.com/JhoelDiego2" ><img src="../assets/jhoel_photo_.png" border-radius="50%"; width="400px;"/><br/><b>Jhoel Mita</b></</a><br /> <sub> Scrum Master <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
