@@ -74,10 +74,10 @@
 </p>
 
 ## 🚨 Problema
-- 
--  
--  
--  
+- Monitoramento insuficiente de Hardware
+- Falta de detecção proativa de falhas
+- Susceptibilidade e sabotagens internas
+- Falta de visibilidade para equipes de TI e Segurança
 
 
 ## 💡 Solução
@@ -89,7 +89,7 @@
 
 
 ## 📊 Caso Real
--   
+-  Em um incidente real, na Caixa Econômica Federal, um funcionário interno foi responsável por desligar o sistema de câmeras de segurança, o que resultou em um prejuízo de cerca de R$ 600 mil. Este caso exemplifica a importância de um sistema de monitoramento proativo como o Oberon. Se o sistema tivesse monitorado a saúde do hardware e detectado comportamentos anormais ou falhas no computador de CFTV, o desligamento não teria passado despercebido e a intervenção poderia ter ocorrido rapidamente, evitando o grande prejuízo financeiro.
 
 
 ## 🗂️ Estrutura da Organização
