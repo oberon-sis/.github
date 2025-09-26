@@ -137,7 +137,7 @@ Este projeto está dividido em múltiplos repositórios:
 
 <table >
 
-<td align="center" width="125px"><a  href= "https://github.com/brubrumartins"><img src="../assets/bruna_photo.png" border-radius="50%"; width="400px;"/><br/><b>Bruna Martins</b> </</a><br /> <sub> UX/UI Designer <br>&<br> Front </sub> </br></br> <a  href="https://github.com/brubrumartins" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td align="center" width="125px"><a  href= "https://github.com/brubrumartins"><img src="../assets/bruna_photo.png" border-radius="50%"; width="400px;"/><br/><b>Bruna Martins</b> </</a><br /> <sub> Suporte <br>&<br> Back-End </sub> </br></br> <a  href="https://github.com/brubrumartins" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 <td  align="center" width="125px"><a  href= "https://github.com/d1n4ara" ><img src="../assets/dandara_photo.png"  border-radius="50%"; width="400px;"/><br/><b>Dandara Ramos</b></</a><br />  <sub > DBA <br>&<br> Front  </sub> </br></br> <a  href="https://github.com/d1n4ara" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
@@ -145,11 +145,11 @@ Este projeto está dividido em múltiplos repositórios:
 
 <td  align="center" width="125px"><a  href="https://github.com/JhoelDiego2" ><img src="../assets/jhoel_photo_.png" border-radius="50%"; width="400px;"/><br/><b>Jhoel Mita</b></</a><br /> <sub> Scrum Master <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center" width="125px"><a  href="https://github.com/MIGUELLIMA11" ><img src="../assets/miguel_photo.png" border-radius="50%"; width="400px;"/><br/><b>Miguel Sousa</b></</a><br /> <sub> Analista<br>&<br> Back-end </sub> </br></br><a  href="https://github.com/MIGUELLIMA11" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href="https://github.com/MIGUELLIMA11" ><img src="../assets/miguel_photo.png" border-radius="50%"; width="400px;"/><br/><b>Miguel Sousa</b></</a><br /> <sub> Infra<br>&<br> Back-end </sub> </br></br><a  href="https://github.com/MIGUELLIMA11" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center" width="125px" ><a  href="https://github.com/nathanbarbosatx" ><img src="../assets/nathan_photo.png" border-radius="50%"; width="400px;"/><br/><b>Nathan Barbosa</b></</a><br /> <sub> Infrastructure <br>&<br> Front </sub> </br></br><a  href="https://github.com/nathanbarbosatx" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px" ><a  href="https://github.com/nathanbarbosatx" ><img src="../assets/nathan_photo.png" border-radius="50%"; width="400px;"/><br/><b>Nathan Barbosa</b></</a><br /> <sub> Product Owner <br>&<br> Back-End </sub> </br></br><a  href="https://github.com/nathanbarbosatx" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center" width="125px"><a  href="https://github.com/pedrosakaue" ><img src="../assets/pedro_photo.png" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> Product Owner <br>&<br> Fullstack </sub> </br></br><a  href="https://github.com/pedrosakaue" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center" width="125px"><a  href="https://github.com/pedrosakaue" ><img src="../assets/pedro_photo.png" border-radius="50%"; width="400px;"/><br/><b>Pedro Sakaue</b></</a><br /> <sub> DBA <br>&<br> Front-End </sub> </br></br><a  href="https://github.com/pedrosakaue" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 
