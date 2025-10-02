@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="../assets/logo_oberon.png" alt="logo-OBERON" width="250">
+  <img src="../assets/Banner.png" alt="logo-OBERON" >
 </h3>
 
 # OBERON
@@ -112,6 +112,10 @@ Este projeto está dividido em múltiplos repositórios:
   <img src="../assets/aws-svgrepo-com.svg" title="AWS" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50px"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="nodejs" width="50px"/>
 </div>
 
 
@@ -121,7 +125,7 @@ Este projeto está dividido em múltiplos repositórios:
   <img src="assets/arquitetura.png" alt="Arquitetura do sistema" width="600">
 </p> -->
 
-- 🏧 **ATMs** → origem dos dados (CPU, memória, disco, rede).  
+- 🏧 **Máquinas** → origem dos dados (CPU, memória, disco, rede).  
 - 🐍 **Agente Python** → coleta de métricas em tempo real e envio para S3.  
 - ☕ **ETL em Java** → processamento e transformação dos dados em EC2.  
 - 🗄️ **MySQL** → armazenamento centralizado das métricas.  
